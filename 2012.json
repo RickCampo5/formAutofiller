@@ -1,0 +1,376 @@
+{
+  "2012": [
+    {
+        "Proyecto": "3M",
+        "Área": "3,200",
+        "Arquitecto": "kmd ",
+        "Ubicación": "CDMX",
+        "PM": "Cushman ",
+        "Categoría1": "Comercial",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Advance",
+        "Área": "500",
+        "Arquitecto": "USO Arquitectura",
+        "Ubicación": "QRO",
+        "PM": "CBRE",
+        "Categoría1": "Comercial",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Alpha Credit",
+        "Área": "360",
+        "Arquitecto": "Lemus Arquitectos",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Financiero",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "ANIQ",
+        "Área": "930",
+        "Arquitecto": "kmd ",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Salud/Comercial",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Bank of America",
+        "Área": "650",
+        "Arquitecto": "Peschard Arquitectos ",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Financiero",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "BECERRIL, COCA & BECERRIL",
+        "Área": "2,532",
+        "Arquitecto": "ZVA Group ",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Servicios Profesionales",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Boston Scientific",
+        "Área": "1,462",
+        "Arquitecto": "kmd ",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Salud/Comercial",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Bx+",
+        "Área": "800",
+        "Arquitecto": "kmd",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Financiero",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "CA Technologies",
+        "Área": "100",
+        "Arquitecto": "Trazo",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Comercial",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Cepal",
+        "Área": "1,500",
+        "Arquitecto": "in house",
+        "Ubicación": "CDMX",
+        "PM": "KCA",
+        "Categoría1": "Servicios Extranjeros",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Cofetel",
+        "Área": "12,000",
+        "Arquitecto": "Helfon",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Telecomunicaciones",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Compucom",
+        "Área": "2,000",
+        "Arquitecto": "VFO Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Telecomunicaciones",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Conagra",
+        "Área": "923",
+        "Arquitecto": "T arquitctura ",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de Consumo",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Eads PH",
+        "Área": "420",
+        "Arquitecto": "Trazo",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Telecomunicaciones",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Embajada Canadá",
+        "Área": "300",
+        "Arquitecto": "Peschard + Gensler",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Servicios Extranjeros",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Google",
+        "Área": "750",
+        "Arquitecto": "Space",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Telecomunicaciones",
+        "Fotos": "x",
+        "OK": "x"
+    },
+    {
+        "Proyecto": "Group M",
+        "Área": "500",
+        "Arquitecto": "Trazo",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Servicios Profesionales",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Huawei",
+        "Área": "6,500",
+        "Arquitecto": "Space",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Telecomunicaciones/Comercial",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Iké",
+        "Área": "1,180",
+        "Arquitecto": "Eskema",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Financiero",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Indra",
+        "Área": "2,000",
+        "Arquitecto": "Ingenor",
+        "Ubicación": "CDMX",
+        "PM": "Ingenor",
+        "Categoría1": "Servicios Profesionales",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Lambie Nairn",
+        "Área": "100",
+        "Arquitecto": "Eskema",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Servicios Profesionales",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Maersk",
+        "Área": "1,200",
+        "Arquitecto": "MAC - L",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Servicios Profesionales",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Mattel",
+        "Área": "935",
+        "Arquitecto": "kmd",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de Producción",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Mediacom",
+        "Área": "100",
+        "Arquitecto": "-",
+        "Ubicación": "-",
+        "PM": "-",
+        "Categoría1": "Telecomunicaciones",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "MetLife",
+        "Área": "75",
+        "Arquitecto": "Peschard ",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Financiero",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Mexichem",
+        "Área": "800",
+        "Arquitecto": "kmd",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de Producción",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Moody's",
+        "Área": "60",
+        "Arquitecto": "T Arquitectura 2006??",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Financiero",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "MPG",
+        "Área": "230",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Servicios Profesionales",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "OMD",
+        "Área": "1,220",
+        "Arquitecto": "kmd",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Servicios Profesionales",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Pasquel Hermanos",
+        "Área": "360",
+        "Arquitecto": "in house",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Servicios Profesionales",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Panduit",
+        "Área": "3,500",
+        "Arquitecto": "--",
+        "Ubicación": "GDL",
+        "PM": "CBRE",
+        "Categoría1": "Bienes de Producción",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "PepsiCo",
+        "Área": "110",
+        "Arquitecto": "--",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Bienes de Consumo",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Qualcomm",
+        "Área": "1,100",
+        "Arquitecto": "in house",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Telecomunicaciones/Comercial",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Qualcomm",
+        "Área": "1,000",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Telecomunicaciones/Comercial",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Red Bull",
+        "Área": "800",
+        "Arquitecto": "Space",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de Consumo",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "SAI",
+        "Área": "1,015",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Consumo Cotidiano",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Swarovski",
+        "Área": "150",
+        "Arquitecto": "in house",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Retail/Comercial",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Unisys",
+        "Área": "500",
+        "Arquitecto": "Oxigeno arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Telecomunicaciones",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "William Grant",
+        "Área": "500",
+        "Arquitecto": "Eskma Arquitectos",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de Consumo",
+        "Fotos": "a",
+        "OK": "a"
+    }
+  ]
+}

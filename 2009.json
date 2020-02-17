@@ -1,0 +1,145 @@
+{
+  "2009": [
+    {
+        "Proyecto": "Bonice",
+        "Área": "800",
+        "Arquitecto": "tarquitectura",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Cadbury",
+        "Área": "960",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Canacintra",
+        "Área": "620",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Canaco",
+        "Área": "250",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Canaco",
+        "Área": "360",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Canaco",
+        "Área": "810",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Cinépolis Atizapán",
+        "Área": "2,000",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "CMIC",
+        "Área": "600",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Concamin",
+        "Área": "500",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Concanaco",
+        "Área": "775",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Coparmex",
+        "Área": "460",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Coparmex",
+        "Área": "1,000",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Havas",
+        "Área": "300",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "MVS",
+        "Área": "800",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Navteq",
+        "Área": "200",
+        "Arquitecto": "usoarquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Telecomunicaciones",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Research International",
+        "Área": "255",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Rubbermaid",
+        "Área": "1,345",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Schering Plough",
+        "Área": "1,100",
+        "Categoría1": "Salud",
+        "Categoría2": "Farmacéutica",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Fundación SOS",
+        "Área": "640",
+        "Arquitecto": "HOK",
+        "Ubicación": "CDMX",
+        "Categoría1": "Asociaciones",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Spencer Stuart",
+        "Área": "320",
+        "Ubicación": "CDMX",
+        "Categoría1": "Servicios profesionales",
+        "Categoría2": "RRHH | Consultoría",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Stendhal",
+        "Área": "520",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Salud",
+        "Categoría2": "Farmacéutica",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Tandberg",
+        "Área": "315",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Tecnología",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Thor",
+        "Área": "2,000",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Unilever",
+        "Área": "320",
+        "Fotos": "x"
+    }
+  ]
+}

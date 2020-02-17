@@ -1,0 +1,286 @@
+{
+  "2010": [
+    {
+        "Proyecto": "ASBA",
+        "Área": "800",
+        "Arquitecto": "Uso Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Financiero"
+    },
+    {
+        "Proyecto": "ALD Automotive",
+        "Área": "720",
+        "Arquitecto": "Oxigeno Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "transporte",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Amadeus",
+        "Área": "60",
+        "Arquitecto": "Trazo",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "servicios profesionales"
+    },
+    {
+        "Proyecto": "Amgen",
+        "Área": "1,300",
+        "Arquitecto": "Peschard Arquitectos",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "salud",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Cardtronics",
+        "Área": "750",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "servicios profesionales",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Coca Cola",
+        "Área": "130",
+        "Arquitecto": "Grado 13",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "bienes de consumo "
+    },
+    {
+        "Proyecto": "Conagra Foods",
+        "Área": "300",
+        "Arquitecto": "HOK",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "bienes de consumo ",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Consulado Canadá",
+        "Área": "3,500",
+        "Arquitecto": "Peschard Arquitectos",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "servicios extranjeros",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Credit Suisse",
+        "Área": "300",
+        "Arquitecto": "HOK",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "financiero",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Diasorin",
+        "Área": "180",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "salud",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Eads",
+        "Área": "300",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "bienes de produccion"
+    },
+    {
+        "Proyecto": "Education First",
+        "Área": "500",
+        "Arquitecto": "Trazo ",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "eduacion",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Goldcorp",
+        "Área": "120",
+        "Arquitecto": "Oxigeno Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "bienes de produccion "
+    },
+    {
+        "Proyecto": "Lundbeck",
+        "Área": "100",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "KCA",
+        "Categoría1": "salud",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Mannatech",
+        "Área": "170",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "salud"
+    },
+    {
+        "Proyecto": "Marriott",
+        "Área": "300",
+        "Arquitecto": "Stantec",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "hospitalidad"
+    },
+    {
+        "Proyecto": "Mazda",
+        "Área": "2,000",
+        "Arquitecto": "IDA Projekt",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "bienes de produccion ",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Media Edge",
+        "Área": "330",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "telecomunicaciones",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Merck",
+        "Área": "1,500",
+        "Arquitecto": "Oxigeno Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "salud"
+    },
+    {
+        "Proyecto": "Morgan Stanley",
+        "Área": "30",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "financiero"
+    },
+    {
+        "Proyecto": "Motorola",
+        "Área": "1,500",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "telecomunicaciones"
+    },
+    {
+        "Proyecto": "MPG",
+        "Área": "873",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "servicios profesionales",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "NFL",
+        "Área": "420",
+        "Arquitecto": "Idea Asociados",
+        "Ubicación": "CDMX",
+        "PM": "C&W",
+        "Categoría1": "entretenimiento",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Ogilvy",
+        "Área": "300",
+        "Arquitecto": "Serrano Monjaraz",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "telecomunicaciones",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Phillip Morris",
+        "Área": "6,000",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "bienes de consumo ",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "RI",
+        "Área": "1,100",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "servicios profesionales"
+    },
+    {
+        "Proyecto": "Ranbaxy",
+        "Área": "340",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "salud"
+    },
+    {
+        "Proyecto": "Red Bull",
+        "Área": "1,600",
+        "Arquitecto": "Space",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "bienes de consumo ",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Road Machinery",
+        "Área": "340",
+        "Arquitecto": "Ampro",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "servicios profesionales"
+    },
+    {
+        "Proyecto": "Royal Caribbean",
+        "Área": "700",
+        "Arquitecto": "HOK",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "entretenimiento "
+    },
+    {
+        "Proyecto": "Sabre",
+        "Área": "60",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "servicios profesionales"
+    },
+    {
+        "Proyecto": "Stendhal",
+        "Área": "300",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "salud",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Tellabs",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "servicios profesionales"
+    },
+    {
+        "Proyecto": "Thor",
+        "Área": "500",
+        "Ubicación": "CDMX",
+        "Categoría1": "servicios profesionales"
+    }
+  ]
+}

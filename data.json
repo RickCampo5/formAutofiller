@@ -1,0 +1,2894 @@
+﻿{
+    "2007": [
+        {
+            "Proyecto ": "Applica",
+            "Área ": "550",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Baker Hughes",
+            "Área ": "600",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Bloom",
+            "Área ": "200",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Blue Marine",
+            "Área ": "500",
+            "Arquitecto": "HOK",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Petróleo y Gas",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "BNP Paribas",
+            "Área ": "700",
+            "Arquitecto": "KMD",
+            "PM ": "-",
+            "Categoría": "Banco",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Cadbury Adams",
+            "Área ": "6,300",
+            "Arquitecto": "KMD",
+            "PM ": "Sandra González",
+            "Categoría": "Alimentos",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "CCR",
+            "Área ": "240",
+            "Arquitecto": "Tarquitectura",
+            "PM ": "-",
+            "Categoría": "Transporte",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Club Med",
+            "Área ": "5,000",
+            "Arquitecto": "In house",
+            "Ubicación ": "Ixtapa",
+            "PM ": "Grupo Arquenare",
+            "Categoría": "Hotel",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Credit Suisse",
+            "Área ": "3,100",
+            "Arquitecto": "HOK",
+            "PM ": "JLL",
+            "Categoría": "Banco",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Desentis",
+            "Área ": "450",
+            "Arquitecto": "KMD",
+            "PM ": "KCA",
+            "Categoría": "Servicios profesionales",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Diageo",
+            "Área ": "3,300",
+            "Arquitecto": "Peschard/Gensler",
+            "Ubicación ": "CDMX",
+            "PM ": "JLL",
+            "Categoría": "Bebidas alcohólicas",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Digital",
+            "Área ": "700",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Frisa",
+            "Área ": "4,000",
+            "Arquitecto": "Trazzo",
+            "PM ": "-",
+            "Categoría": "Construcción",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Game Planet",
+            "Área ": "650",
+            "PM ": "-",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Genevieve",
+            "Área ": "200",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Georgia Pacific",
+            "Área ": "900",
+            "Arquitecto": "HOK",
+            "PM ": "-",
+            "Categoría": "Bienes de producción",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "González Graf",
+            "Área ": "2,000",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "HKS",
+            "Área ": "60",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "HSBC",
+            "Área ": "11,000",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Hubbell",
+            "Área ": "500",
+            "Arquitecto": "Tarquitectura",
+            "PM ": "-",
+            "Categoría": "Bienes de producción",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "IFC",
+            "Área ": "700",
+            "Arquitecto": "Tarquitectura",
+            "PM ": "-",
+            "Categoría": "Servicios extranjeros",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Iké Asistencia",
+            "Área ": "4,140",
+            "Arquitecto": "HOK",
+            "PM ": "-",
+            "Categoría": "Seguros",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Louis Vuitton",
+            "Área ": "200",
+            "PM ": "-",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Mexico Home",
+            "Área ": "800",
+            "Arquitecto": "HOK",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Monsanto",
+            "Área ": "200",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Monte Fénix",
+            "Área ": "1,050",
+            "Arquitecto": "Tarquitectura",
+            "PM ": "KCA",
+            "Categoría": "Salud",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Moody's",
+            "Área ": "360",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "MPG",
+            "Área ": "2,500",
+            "Arquitecto": "Tarquitectura",
+            "PM ": "-"
+        },
+        {
+            "Proyecto ": "MRP",
+            "Área ": "1,100"
+        },
+        {
+            "Proyecto ": "Nalco",
+            "Área ": "650",
+            "Arquitecto": "KMD",
+            "PM ": "-",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Nortel",
+            "Área ": "4,600",
+            "Arquitecto": "HOK",
+            "PM ": "-",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Research International",
+            "Área ": "100",
+            "Arquitecto": "HOK",
+            "PM ": "JLL",
+            "Categoría": "Servicios profesionales",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "SAP",
+            "Área ": "1,200",
+            "Arquitecto": "adyp",
+            "PM ": "-",
+            "Categoría": "Tecnología",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Schweppes",
+            "Área ": "800",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "SIG",
+            "Área ": "250",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Sodexo",
+            "Área ": "1,000",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Stiefel",
+            "Área ": "1,500",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Teleperformance",
+            "Área ": "3,530",
+            "Categoría": "RRHH",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "The Rug Company",
+            "Área ": "500",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Towers Perrin",
+            "Área ": "750",
+            "Arquitecto": "Peschard/Gensler",
+            "PM ": "-",
+            "Categoría": "Servicios profesionales",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Unilever",
+            "Área ": "10,000",
+            "Arquitecto": "hok",
+            "PM ": "Sandra González",
+            "Categoría": "Bienes de consumo",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "UTStarcom",
+            "Área ": "200",
+            "Arquitecto": "Tarquitectura",
+            "PM ": "-",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "VB+CRR",
+            "Área ": "850",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Watson Wyatt",
+            "Área ": "1,500",
+            "Arquitecto": "Peschard/Gensler",
+            "PM ": "-",
+            "Categoría": "Consultoría",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Resultado 2007",
+            "Área ": "79,430"
+        }
+    ],   
+    "2015": [
+        {
+            "Proyecto ": "A&E",
+            "Área ": "720",
+            "Arquitecto": "T Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Entretenimiento",
+            "undefined": "Televisión",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Arendal Mty",
+            "Área ": "920",
+            "Arquitecto": "spAce",
+            "Ubicación ": "MTY",
+            "PM ": "-",
+            "Categoría": "Bienes de Producción",
+            "undefined": "Construcción",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Arrow Electronics",
+            "Área ": "720",
+            "Arquitecto": "Eskema ",
+            "Ubicación ": "CDMX",
+            "PM ": "Colliers",
+            "Categoría": "Bienes de Producción",
+            "undefined": "electrónico",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "AT&T",
+            "Área ": "30,000",
+            "Arquitecto": "Gensler",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Bain & Company",
+            "Área ": "360",
+            "Arquitecto": "VFO",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "servicios profesionales",
+            "undefined": "consultoría",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "BNP Paribas",
+            "Área ": "600",
+            "Arquitecto": "T Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "financiero",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Bottega Veneta Polanco",
+            "Área ": "222",
+            "Arquitecto": "Peschard Arquitectos ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "bienes de consumo",
+            "undefined": "retail ",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "British Council Interlomas",
+            "Área ": "260",
+            "Arquitecto": "USO Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "educación",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Bulova",
+            "Área ": "900",
+            "Arquitecto": "T Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de Consumo",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Cafetería Nescafé",
+            "Área ": "148",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "bienes de consumo",
+            "undefined": "alimentos",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "CENAGAS",
+            "Área ": "1,650",
+            "Arquitecto": "Ensamble Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Gobierno",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Chemours",
+            "Área ": "1,100",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de Producción",
+            "undefined": "Químico",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "CRE",
+            "Área ": "11,300",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Gobierno",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Depto Torre del Parque ",
+            "Área ": "480",
+            "Arquitecto": "MAAD",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Residencial",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Embajada Japón",
+            "Área ": "2,400",
+            "Arquitecto": "Shibayama Murakami Arquitectos ",
+            "Ubicación ": "CMDX",
+            "PM ": "-",
+            "Categoría": "servicios extranjeros",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Expeditors ",
+            "Área ": "1,410",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "Colliers",
+            "Categoría": "servicios profesionales",
+            "undefined": "logística ",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Geodis Wilson ",
+            "Área ": "2,000",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "Colliers",
+            "Categoría": "servicios profesionales",
+            "undefined": "transporte",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Gonzalez Graf",
+            "Área ": "986",
+            "Arquitecto": "Lemus Arquitectos ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "servicios profesionales",
+            "undefined": "abogados",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Google MU",
+            "Área ": "8,000",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "Tecnología",
+            "undefined": "internet",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Grupo Garañón GDL",
+            "Área ": "560",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "GDL",
+            "PM ": "-",
+            "Categoría": "Bienes de Consumo",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Gpo Modelo II",
+            "Área ": "222",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de Consumo",
+            "undefined": "bebidas alcoholicas"
+        },
+        {
+            "Proyecto ": "Hella",
+            "Área ": "1,920",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de Producción",
+            "undefined": "Automotriz",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Hugo Boss Perisur",
+            "Área ": "89",
+            "Arquitecto": "Hugo Boss",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes cotidianos",
+            "undefined": "retail ",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Hotel W Restaurante Jaleo ",
+            "Área ": "960",
+            "Arquitecto": "Capella García Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "hospitalidad",
+            "undefined": "restaurante",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "ICBC",
+            "Área ": "1,300",
+            "Arquitecto": "KMD",
+            "Ubicación ": "CDMX",
+            "PM ": "JLL",
+            "Categoría": "financiero",
+            "undefined": "banco",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "In Store Media",
+            "Área ": "320",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "servicios profesionales",
+            "undefined": "publicidad y medios ",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "LiteOn Gdl",
+            "Área ": "520",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "GDL",
+            "PM ": "-",
+            "Categoría": "tecnologia",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Lorant Comedor",
+            "Área ": "350",
+            "Arquitecto": "Eskema",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "financiero",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Nike Gdl",
+            "Área ": "3,800",
+            "Arquitecto": "Peschard Arquitectos ",
+            "Ubicación ": "GDL",
+            "PM ": "CBRE",
+            "Categoría": "Bienes de Consumo",
+            "undefined": "Textil",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Novasistemas ",
+            "Área ": "360",
+            "Arquitecto": "Trazo",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "OCD",
+            "Área ": "950",
+            "Arquitecto": "KMD",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Salud",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Oracle Gdl",
+            "Área ": "2,300",
+            "Arquitecto": "Peschard Arquitectos ",
+            "Ubicación ": "GDL",
+            "PM ": "CBRE",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "PWC",
+            "Área ": "200",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "servicios profesionales",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Randstad ",
+            "Área ": "800",
+            "Arquitecto": "Lemus Arquitectos ",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "servicios profesionales",
+            "undefined": "RRHH",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Red Bull II",
+            "Área ": "350",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "bienes de consumo",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "SEMARNAT",
+            "Área ": "33,000",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Gobierno",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Stendhal ",
+            "Área ": "700",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Salud",
+            "undefined": "farmaceutico",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "UBS",
+            "Área ": "2,272",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "financiero",
+            "undefined": "Banco",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Valentino",
+            "Área ": "160",
+            "Arquitecto": "valentino",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes cotidianos",
+            "undefined": "retail ",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Vans",
+            "Área ": "1,650",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de Consumo",
+            "undefined": "Textil",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "YSL ",
+            "Área ": "64",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes cotidianos",
+            "undefined": "retail ",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Resultado 2015",
+            "Área ": "117,023"
+        }
+    ],
+    "2016": [
+        {
+            "Proyecto ": "Alpha Credit",
+            "Área ": "4,093",
+            "Arquitecto": "Lemus Arquitectos ",
+            "Ubicación": "CDMX ",
+            "PM": "-",
+            "Categoría": "financiero",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Arendal Mty",
+            "Área ": "460",
+            "Arquitecto": "spAce",
+            "Ubicación": "MTY",
+            "PM": "Colliers",
+            "Categoría": "Construcción",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "AT&T Torre Diana ",
+            "Área ": "30000",
+            "Arquitecto": "Gensler ",
+            "Ubicación": "CDMX ",
+            "PM": "CBRE",
+            "Categoría": "telecomunicaciones",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "BlackRock ",
+            "Área ": "820",
+            "Arquitecto": "ZVA",
+            "Ubicación": "CDMX ",
+            "PM": "C&W",
+            "Categoría": "inversión",
+            "Fotos": "a",
+            "OK": "x"
+        },
+        {
+            "Proyecto ": "CENAGAS II",
+            "Área ": "1,576",
+            "Arquitecto": "In house",
+            "Ubicación": "CDMX ",
+            "PM": "-",
+            "Categoría": "gobierno",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Cinemex Mty ",
+            "Área ": "4,641",
+            "Arquitecto": "HF",
+            "Ubicación": "MTY",
+            "PM": "C&W",
+            "Categoría": "cine",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Computacenter ",
+            "Área ": "1,350",
+            "Arquitecto": "VFO Arquitectura",
+            "Ubicación": "CDMX ",
+            "PM": "CBRE",
+            "Categoría": "tecnología",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "CAT Tepotzotlán",
+            "Área ": "1,300",
+            "Arquitecto": "Objeto ",
+            "Ubicación": "Tepotzotlán ",
+            "PM": "Hines",
+            "Categoría": "logística",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Coyote Logistics Gdl",
+            "Área ": "450",
+            "Arquitecto": "ZVA",
+            "Ubicación": "gdl",
+            "PM": "-",
+            "Categoría": "logística",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Deloitte Qro ",
+            "Área ": "2,500",
+            "Arquitecto": "Gensler ",
+            "Ubicación": "Qro ",
+            "PM": "JLL",
+            "Categoría": "consultoria",
+            "Fotos": "a",
+            "OK": "a",
+            "undefined": "sin logo"
+        },
+        {
+            "Proyecto ": "Dicipa",
+            "Área ": "2,788",
+            "Arquitecto": "spAce",
+            "Ubicación": "CDMX ",
+            "PM": "-",
+            "Categoría": "Médico",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Eli Lilly ",
+            "Área ": "7,000",
+            "Arquitecto": "Oxigeno Arquitectura ",
+            "Ubicación": "CDMX ",
+            "PM": "JLL",
+            "Categoría": "farmaceutico",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Eli Lilly Gym",
+            "Área ": "230",
+            "Arquitecto": "Oxigeno Arquitectura ",
+            "Ubicación": "CDMX ",
+            "PM": "-",
+            "Categoría": "farmaceutico",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Fusion Media Group",
+            "Área ": "166",
+            "Arquitecto": "Nine Curé ",
+            "Ubicación": "CDMX ",
+            "PM": "-",
+            "Categoría": "televisión",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "GE Mty ",
+            "Área ": "7,300",
+            "Arquitecto": "Ibarra Arquitectos ",
+            "Ubicación": "MTY",
+            "PM": "JLL",
+            "Categoría": "Electrónico",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Grupo Modelo Ags ",
+            "Área ": "11,871",
+            "Arquitecto": "spAce",
+            "Ubicación": "Aguascalientes ",
+            "PM": "JLL",
+            "Categoría": "Bebidas Alcohólicas",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Grupo Modelo Now",
+            "Área ": "112",
+            "Arquitecto": "spAce",
+            "Ubicación": "cdmx",
+            "PM": "-",
+            "Categoría": "Bebidas Alcohólicas",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Honeywell SLP",
+            "Área ": "4,239",
+            "Arquitecto": "Oxigeno Arquitectura ",
+            "Ubicación": "SLP",
+            "PM": "JLL",
+            "Categoría": "Tecnología",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Keyence",
+            "Área ": "412",
+            "Arquitecto": "Ensamble Arquitectura",
+            "Ubicación": "CDMX ",
+            "PM": "-",
+            "Categoría": "Tec",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "KIO Networks ",
+            "Área ": "430",
+            "Arquitecto": "KMD",
+            "Ubicación": "CDMX ",
+            "PM": "-",
+            "Categoría": "tecnología",
+            "Fotos": "a",
+            "OK": "x"
+        },
+        {
+            "Proyecto ": "Lenovo / Motorola ",
+            "Área ": "430",
+            "Arquitecto": "Uso Arquitectura ",
+            "Ubicación": "CDMX ",
+            "PM": "JLL",
+            "Categoría": "tecnología",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Metlife ",
+            "Área ": "265",
+            "Arquitecto": "ZVA",
+            "Ubicación": "CDMX ",
+            "PM": "CBRE",
+            "Categoría": "seguros",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "MSD México ",
+            "Área ": "5,600",
+            "Arquitecto": "Oxigeno Arquitectura ",
+            "Ubicación": "CDMX ",
+            "PM": "JLL",
+            "Categoría": "farmaceutico",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Nike ",
+            "Área ": "2,817",
+            "Arquitecto": "Peschard Arquitectos ",
+            "Ubicación": "CDMX ",
+            "PM": "CBRE",
+            "Categoría": "textil",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "OSISoft ",
+            "Área ": "500",
+            "Arquitecto": "Oxigeno Arquitectura ",
+            "Ubicación": "CDMX ",
+            "PM": "-",
+            "Categoría": "tecnología",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Osram ",
+            "Área ": "460",
+            "Arquitecto": "spAce",
+            "Ubicación": "CDMX ",
+            "PM": "CBRE",
+            "Categoría": "Electrónico",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Parsons ",
+            "Área ": "1054",
+            "Arquitecto": "Contract Work Spaces",
+            "Ubicación": "CDMX ",
+            "PM": "CBRE",
+            "Categoría": "Construcción",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Principle Global / AT&T",
+            "Área ": "Sucursales",
+            "Arquitecto": "-",
+            "PM": "-",
+            "Categoría": "-",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Rackspace",
+            "Área ": "877",
+            "Arquitecto": "Gensler ",
+            "Ubicación": "CDMX ",
+            "PM": "Pritchard Associates",
+            "Categoría": "tecnología",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "SCA ",
+            "Área ": "1,550",
+            "Arquitecto": "Lemus Arquitectos ",
+            "Ubicación": "CDMX ",
+            "PM": "-",
+            "Categoría": "Bienes de Consumo",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Sí Vale ",
+            "Área ": "1,250",
+            "Arquitecto": "spAce",
+            "Ubicación": "CDMX ",
+            "PM": "Colliers",
+            "Categoría": "tecnología",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Summa",
+            "Área ": "360",
+            "Arquitecto": "Tarquitectura",
+            "Ubicación": "CDMX ",
+            "PM": "-",
+            "Categoría": "seguros",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Laboratorios Tornel ",
+            "Área ": "607",
+            "Arquitecto": "spAce",
+            "Ubicación": "CDMX ",
+            "PM": "-",
+            "Categoría": "farmaceutico",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Univisión Bogotá",
+            "Área ": "188",
+            "Arquitecto": "Nine Curé ",
+            "Ubicación": "BOGOTÁ",
+            "PM": "-",
+            "Categoría": "televisión",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Univisión Bogotá 2",
+            "Área ": "160",
+            "Arquitecto": "Nine Curé ",
+            "Ubicación": "BOGOTÁ",
+            "PM": "-",
+            "Categoría": "televisión",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Vitro ",
+            "Área ": "300",
+            "Arquitecto": "WORK + ",
+            "Ubicación": "CDMX ",
+            "PM": "Colliers",
+            "Categoría": "Bienes de Consumo",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Resultado 2016",
+            "Área ": "98,156"
+        },
+        {
+            "undefined": "348"
+        }
+    ],
+    "2017": [
+        {
+            "Proyecto ": "Abinbev",
+            "Área ": "10,000",
+            "Arquitecto": "spAce",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "JLL",
+            "Categoría": "Bebidas Alchólicas",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Asociación de Futbolistas",
+            "Área ": "205",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "Tolucca",
+            "PM ": "-",
+            "Categoría": "deporte",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Banco Mundial",
+            "Área ": "1,534",
+            "Arquitecto": "Marcela Villegas",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "CBRE",
+            "Categoría": "banco",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Barry Callebaut",
+            "Área ": "690",
+            "Arquitecto": "Work +",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Alimentos",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Bank of América",
+            "Área ": "3,000",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "banco",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Brown Forman",
+            "Área ": "656",
+            "Arquitecto": "Eskema",
+            "Ubicación ": "CDMX",
+            "PM ": "JLL",
+            "Categoría": "Bebidas Alchólicas",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Chubb Cali",
+            "Área ": "548",
+            "Arquitecto": "In house",
+            "Ubicación ": "CALI",
+            "PM ": "JLL",
+            "Categoría": "seguros"
+        },
+        {
+            "Proyecto ": "Chubb Medellin",
+            "Área ": "400",
+            "Arquitecto": "In house",
+            "Ubicación ": "MEDELLIN",
+            "PM ": "JLL",
+            "Categoría": "seguros"
+        },
+        {
+            "Proyecto ": "CONEVAL",
+            "Área ": "8,300",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "gobierno",
+            "Fotos": "a",
+            "OK": "x"
+        },
+        {
+            "Proyecto ": "Coyote Logistics 2 ",
+            "Área ": "320",
+            "Arquitecto": "ZVA",
+            "Ubicación ": "GDL",
+            "PM ": "-",
+            "Categoría": "Logística",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Danaher",
+            "Área ": "2,200",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "Colliers",
+            "Categoría": "salud",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "DB Schenker",
+            "Área ": "508",
+            "Arquitecto": "Work +",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Logística",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Deloitte Qro ",
+            "Área ": "6,750",
+            "Arquitecto": "Gensler",
+            "Ubicación ": "qro",
+            "PM ": "JLL",
+            "Categoría": "consultoria",
+            "Fotos": "a",
+            "OK": "a",
+            "undefined": "SIN NOMBRE"
+        },
+        {
+            "Proyecto ": "Despegar.com ",
+            "Área ": "720",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "internet",
+            "Fotos": "a",
+            "OK": "x"
+        },
+        {
+            "Proyecto ": "destek",
+            "Área ": "710",
+            "Arquitecto": "Sordo Madaleno",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "financiero",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Digital State",
+            "Área ": "298",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "publicidad",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Dimex MTY",
+            "Área ": "1,220",
+            "Arquitecto": "spAce",
+            "Ubicación ": "MTY",
+            "PM ": "-",
+            "Categoría": "Financiero"
+        },
+        {
+            "Proyecto ": "Dupont Lerma",
+            "Área ": "300",
+            "Arquitecto": "spAce",
+            "Ubicación ": "LERMA",
+            "PM ": "-",
+            "Categoría": "Bienes de Producción",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Esencial",
+            "Área ": "698",
+            "Arquitecto": "In house",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Retail",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Expanscience",
+            "Área ": "500",
+            "Arquitecto": "KMD",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "salud",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "EY",
+            "Área ": "710",
+            "Arquitecto": "Grupo Estuco ",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "consultoria",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Femexfut Car",
+            "Área ": "768",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "deporte",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Gedeon Richter",
+            "Área ": "430",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "farmacéutico",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "General Motors",
+            "Área ": "13,776",
+            "Arquitecto": "Sordo Madaleno",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Automotriz ",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Givaudan",
+            "Área ": "2,583",
+            "Arquitecto": "T Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "C&W",
+            "Categoría": "Bienes de consumo",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Google GOVO",
+            "Área ": "2,830",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "internet",
+            "Fotos": "a",
+            "OK": "x"
+        },
+        {
+            "Proyecto ": "Grupo Eurovi",
+            "Área ": "530",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Inmobiliaria",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Herman Miller",
+            "Área ": "200",
+            "Arquitecto": "In house",
+            "Ubicación ": "MTY",
+            "PM ": "JLL",
+            "Categoría": "Retail",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Honeywell SLP 2 ",
+            "Área ": "400",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "SLP",
+            "PM ": "JLL",
+            "Categoría": "Tecnología",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "IHS Markit",
+            "Área ": "472",
+            "Arquitecto": "Gensler",
+            "Ubicación ": "CDMX",
+            "PM ": "Colliers",
+            "Categoría": "Información",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Iké Bogotá",
+            "Área ": "540",
+            "Arquitecto": "In house",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "-",
+            "Categoría": "seguros",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "JLL MTY",
+            "Área ": "300",
+            "Arquitecto": "Gensler",
+            "Ubicación ": "MTY",
+            "PM ": "JLL",
+            "Categoría": "Inmobiliaria",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "ITESM Santa Fe",
+            "Área ": "1,000",
+            "Arquitecto": "In house",
+            "Ubicación ": "CDMX",
+            "PM ": "eco",
+            "Categoría": "Educación",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Keyence Mty",
+            "Área ": "216",
+            "Arquitecto": "Bace Arquitecots ",
+            "Ubicación ": "MTY",
+            "PM ": "-",
+            "Categoría": "Tecnología",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Las Alitas Mty",
+            "Área ": "860",
+            "Arquitecto": "spAce",
+            "Ubicación ": "MTY",
+            "PM ": "-",
+            "Categoría": "Alimentos",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Marriott",
+            "Área ": "400",
+            "Arquitecto": "stantec",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Hospitalidad"
+        },
+        {
+            "Proyecto ": "Maypo",
+            "Área ": "4,009",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "farmacéutico",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Metalsa",
+            "Área ": "4,612",
+            "Arquitecto": "AD +P ",
+            "Ubicación ": "MTY",
+            "PM ": "JLL",
+            "Categoría": "Automotriz ",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Microsoft ",
+            "Área ": "825",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "JLL",
+            "Categoría": "tecnología",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Naturex",
+            "Área ": "217",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de Consumo",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Newmark MTY",
+            "Área ": "180",
+            "Arquitecto": "Y Arquitectura ",
+            "Ubicación ": "mty",
+            "PM ": "Newmark",
+            "Categoría": "Inmobiliaria",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Nike Bogotá",
+            "Área ": "422",
+            "Arquitecto": "3G Office",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "-",
+            "Categoría": "Textil"
+        },
+        {
+            "Proyecto ": "Nokia gdl",
+            "Área ": "750",
+            "Arquitecto": "Peschard",
+            "Ubicación ": "GDL",
+            "PM ": "-",
+            "Categoría": "tecnología",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Orquest",
+            "Área ": "315",
+            "Arquitecto": "spAce",
+            "Ubicación ": "MTY",
+            "PM ": "-",
+            "Categoría": "financiero"
+        },
+        {
+            "Proyecto ": "Prosa",
+            "Área ": "2,000",
+            "Arquitecto": "Arquitectura de Estudio",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "tecnología",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Tate & Lyle",
+            "Área ": "1,200",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de Consumo",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Tetra Pak",
+            "Área ": "1,298",
+            "Arquitecto": "aei",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "CBRE",
+            "Categoría": "Bienes de Producción",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Regus SPACES",
+            "Área ": "1,650",
+            "Arquitecto": "VFO",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "coworking",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Riverstone",
+            "Área ": "435",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "CDMX",
+            "Categoría": "energía",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Rockwell ",
+            "Área ": "2,092",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "tecnología",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Russell Reynolds",
+            "Área ": "450",
+            "Arquitecto": "Eskema",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "RRHH",
+            "Fotos": "a",
+            "undefined": "SIN LOGO"
+        },
+        {
+            "Proyecto ": "SAT ",
+            "Área ": "485",
+            "Arquitecto": "Ensamble Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "gobierno",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "SCT ",
+            "Área ": "3,500",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "gobierno",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Sherwin Williams",
+            "Área ": "820",
+            "Arquitecto": "Uso Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de Producción",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Syngenta",
+            "Área ": "1,480",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "Agricultura",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "uber",
+            "Área ": "2,010",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "C&W",
+            "Categoría": "internet",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Univision Bogotá 3",
+            "Área ": "373",
+            "Arquitecto": "Nina Cure",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "-",
+            "Categoría": "televisión",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Univision GDL",
+            "Área ": "400",
+            "Arquitecto": "Oxígeno Arquitectura ",
+            "Ubicación ": "GDL",
+            "PM ": "-",
+            "Categoría": "televisión",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "WeWork",
+            "Área ": "9,300",
+            "Arquitecto": "Arquint",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "Emprenurban",
+            "Categoría": "coworking",
+            "Fotos": "a",
+            "undefined": "SIN LOGO"
+        },
+        {
+            "Proyecto ": "Resultado 2017",
+            "Área ": "104,395"
+        },
+        {
+            "undefined": "14415"
+        }
+    ],
+    "2018": [
+        {
+            "Proyecto ": "ABSA Gdl",
+            "Área ": "2,300",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "GDL",
+            "PM ": "-",
+            "Categoría": "Telecomunicaciones"
+        },
+        {
+            "Proyecto ": "Accenture",
+            "Área ": "556",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "JLL",
+            "Categoría": "Servicios profesionales",
+            "undefined": "consultoría",
+            "Fotos": "a",
+            "OK": "x"
+        },
+        {
+            "Proyecto ": "AT&T Mty",
+            "Área ": "1,600",
+            "Arquitecto": "USO Arquitectura ",
+            "Ubicación ": "MTY",
+            "PM ": "CBRE",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Apple",
+            "Área ": "3,000",
+            "Arquitecto": "ZVA",
+            "Ubicación ": "CDMX",
+            "PM ": "JLL",
+            "Categoría": "tecnología",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "AT&T Toreo",
+            "Área ": "450",
+            "Arquitecto": "USO Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Adecco",
+            "Área ": "770",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Servicios profesionales",
+            "undefined": "RRHH",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "BDO",
+            "Área ": "1,306",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Servicios profesionales",
+            "undefined": "consultoría",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Banorte ",
+            "Área ": "1,600",
+            "Arquitecto": "In house",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Financiero",
+            "undefined": "banco",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Bbraun",
+            "Área ": "2,509",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "salud",
+            "undefined": "farmaceutico",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Beam Suntory",
+            "Área ": "1,101",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "JLL",
+            "Categoría": "Bienes de Consumo ",
+            "undefined": "Bebidas Alcohólicas",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Bloomberg",
+            "Área ": "400",
+            "Arquitecto": "-",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "-",
+            "Categoría": "Financiero"
+        },
+        {
+            "Proyecto ": "Bulova",
+            "Área ": "400",
+            "Arquitecto": "T Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de Consumo ",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Buró Inmobiliario Mty",
+            "Área ": "500",
+            "Arquitecto": "spAce",
+            "Ubicación ": "MTY",
+            "PM ": "-",
+            "Categoría": "Financiero",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Cattri",
+            "Área ": "1,200",
+            "Arquitecto": "KMD",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Servicios profesionales",
+            "undefined": "Publicidad y Medios",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Cáucaso",
+            "Área ": "215",
+            "Arquitecto": "HOOGA",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Servicios profesionales",
+            "Fotos": "a",
+            "OK": "a",
+            "undefined": "sin nombre"
+        },
+        {
+            "Proyecto ": "C3ntro Telecom",
+            "Área ": "2,272",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Telecomunicaciones"
+        },
+        {
+            "Proyecto ": "Cemex Mty",
+            "Área ": "1,640",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "MTY",
+            "PM ": "-",
+            "Categoría": "Bienes de producción",
+            "undefined": "Construcción",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "CHUBB",
+            "Área ": "6,000",
+            "Arquitecto": "spAce",
+            "Ubicación ": "MTY",
+            "PM ": "JLL",
+            "Categoría": "Financiero",
+            "undefined": "Seguros",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Cisco",
+            "Área ": "5,170",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "JLL",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Cognizant Demoliciones Gdl ",
+            "Área ": "1,200",
+            "Arquitecto": "-",
+            "Ubicación ": "GDL",
+            "PM ": "C&W",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Continental Qro",
+            "Área ": "8,600",
+            "Arquitecto": "KMD",
+            "Ubicación ": "QRO",
+            "PM ": "CBRE",
+            "Categoría": "Bienes de producción",
+            "undefined": "Automotríz",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Dell Park Plaza",
+            "Área ": "900",
+            "Arquitecto": "Estudio Rosellini",
+            "Ubicación ": "cdmx",
+            "PM ": "-",
+            "Categoría": "tecnología",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Dell Torre Mayor",
+            "Área ": "588",
+            "Arquitecto": "Estudio Rosellini",
+            "Ubicación ": "cdmx",
+            "PM ": "-",
+            "Categoría": "tecnología",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Delta Desarrollos Mty",
+            "Área ": "2,000",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "MTY",
+            "PM ": "-",
+            "Categoría": "Bienes de Consumo ",
+            "undefined": "Inmobiliaria",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Dominion Global",
+            "Área ": "1,578",
+            "Arquitecto": "Eskema",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Dominion Global Vallejo",
+            "Área ": "1,200",
+            "Arquitecto": "Trazo ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Dupont",
+            "Área ": "5,400",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de producción",
+            "Fotos": "a",
+            "OK": "a",
+            "undefined": "sin logo"
+        },
+        {
+            "Proyecto ": "El Huerto",
+            "Área ": "386",
+            "Arquitecto": "Jorge Campos ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "hospitalidad",
+            "undefined": "restaurante",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Embajada de Canadá",
+            "Área ": "1,980",
+            "Arquitecto": "Peschard Arquitectos ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Servicios Extranjeros",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Embajada de Holanda",
+            "Área ": "600",
+            "Arquitecto": "Paul Vander Voodrt",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Servicios Extranjeros",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Embajada de UK Demo ",
+            "Área ": "2,385",
+            "Arquitecto": "CallistonRTKL",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Servicios Extranjeros",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Emsep ",
+            "Área ": "1,497",
+            "Arquitecto": "interno ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de producción",
+            "undefined": "Petróleo y Gas",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "EY Mty",
+            "Área ": "2,252",
+            "Arquitecto": "spAce",
+            "Ubicación ": "MTY",
+            "PM ": "CBRE",
+            "Categoría": "Servicios profesionales",
+            "undefined": "consultoría",
+            "Fotos": "a",
+            "OK": "x"
+        },
+        {
+            "Proyecto ": "Exxon Mobil",
+            "Área ": "1,608",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "Bienes de producción",
+            "undefined": "Petróleo y Gas",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Fawcett",
+            "Área ": "250",
+            "Arquitecto": "Nina Cure",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "-",
+            "Categoría": "Bienes de Producción",
+            "undefined": "Construcción",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Femexfut Centro Innovación Tol.",
+            "Área ": "167",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "Toluca",
+            "PM ": "-",
+            "Categoría": "entretenimiento",
+            "undefined": "deporte",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Ferromex",
+            "Área ": "1,080",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "transporte",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Ferromex Gdl",
+            "Área ": "6,861",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "GDL",
+            "PM ": "CBRE",
+            "Categoría": "transporte",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Ferromex CCAP",
+            "Área ": "1,662",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "GDL",
+            "PM ": "CBRE",
+            "Categoría": "transporte",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Greenberg Traurig",
+            "Área ": "250",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "servicios profesionales",
+            "undefined": "abogados",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Grupo Vaz Gdl",
+            "Área ": "550",
+            "Arquitecto": "spAce",
+            "Ubicación ": "GDL",
+            "PM ": "Cushman & Wakefield",
+            "Categoría": "Bienes de Producción ",
+            "undefined": "Construcción"
+        },
+        {
+            "Proyecto ": "Grupo Modelo Ags",
+            "Área ": "8,727",
+            "Arquitecto": "spAce",
+            "Ubicación ": "Aguascalientes",
+            "PM ": "JLL",
+            "Categoría": "bienes de Consumo ",
+            "undefined": "Bebidas Alcohólicas",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Grupo Presidente",
+            "Área ": "1,527",
+            "Arquitecto": "Work +",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "hospitalidad",
+            "undefined": "hoteleria",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Havoc",
+            "Área ": "207",
+            "Arquitecto": "Violante Senderos",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "bienes cotidianos",
+            "undefined": "retail",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "HAVOC Liverpool (Insurg y Sta. Fe) ",
+            "Área ": "45 y 42 ",
+            "Arquitecto": "Violante Senderos",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "bienes cotidianos",
+            "undefined": "retail",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Honeywell Tijuana",
+            "Área ": "80",
+            "Arquitecto": "interno ",
+            "Ubicación ": "tijuana",
+            "PM ": "jll",
+            "Categoría": "Bienes de Consumo ",
+            "undefined": "Tecnología",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Hotel Renaissance Pto. Cancún",
+            "Área ": "5,200",
+            "Arquitecto": "Leums Arquitectos ",
+            "Ubicación ": "cancun",
+            "PM ": "JLL",
+            "Categoría": "hospitalidad",
+            "undefined": "hoteleria",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Immunotec",
+            "Área ": "800",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "salud",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Integration Consulting",
+            "Área ": "402",
+            "Arquitecto": "Fernanda Dabbur",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "servicios profesionales",
+            "undefined": "consultoria",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "ITESM CSF 2",
+            "Área ": "308",
+            "Arquitecto": "interno ",
+            "Ubicación ": "CDMX",
+            "PM ": "eco",
+            "Categoría": "educación",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "ITESM CSF 3",
+            "Área ": "788",
+            "Arquitecto": "interno ",
+            "Ubicación ": "CDMX",
+            "PM ": "eco",
+            "Categoría": "educación",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "ITESM Edificio D Mty",
+            "Área ": "2,010",
+            "Arquitecto": "interno ",
+            "Ubicación ": "CDMX",
+            "PM ": "eco",
+            "Categoría": "educación",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Kiewit Qro",
+            "Área ": "2,400",
+            "Arquitecto": "spAce",
+            "Ubicación ": "qro",
+            "PM ": "colliers",
+            "Categoría": "Bienes de Producción",
+            "undefined": "Construcción",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Mañón Quintana",
+            "Área ": "406",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "servicios profesionales",
+            "undefined": "abogados",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Marriott Dos Patios",
+            "Área ": "1,350",
+            "Arquitecto": "stantec",
+            "Ubicación ": "CDMX",
+            "PM ": "cbre",
+            "Categoría": "hospitalidad",
+            "undefined": "hoteleria",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Marriott Insurgentes",
+            "Área ": "1,600",
+            "Arquitecto": "stantec",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "hospitalidad",
+            "undefined": "hoteleria"
+        },
+        {
+            "Proyecto ": "Mars Qro",
+            "Área ": "2,024",
+            "Arquitecto": "Gomez Marquez ",
+            "Ubicación ": "QRO",
+            "PM ": "-",
+            "Categoría": "Bienes de Consumo",
+            "undefined": "Alimentos ",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Megagas",
+            "Área ": "285",
+            "Arquitecto": "3 muros",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "Bienes de Producción",
+            "undefined": "Petróleo y Gas",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Mercado Libre",
+            "Área ": "600",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "tecnología",
+            "undefined": "internet",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Michael Kors Mty",
+            "Área ": "40",
+            "Arquitecto": "-",
+            "Ubicación ": "MTY",
+            "PM ": "-",
+            "Categoría": "bienes cotidianos",
+            "undefined": "retail",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Naxerum mty",
+            "Área ": "850",
+            "Arquitecto": "spAce",
+            "Ubicación ": "MTY",
+            "PM ": "Axioma",
+            "Categoría": "servicios profesionales",
+            "undefined": "coworking",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Nielsen",
+            "Área ": "1,812",
+            "Arquitecto": "Trazo ",
+            "Ubicación ": "CDMX",
+            "PM ": "JLL",
+            "Categoría": "servicios profesionales",
+            "undefined": "publicidad y medios",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Nielsen Col",
+            "Área ": "120",
+            "Arquitecto": "-",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "JLL",
+            "Categoría": "servicios profesionales",
+            "undefined": "publicidad y medios"
+        },
+        {
+            "Proyecto ": "Norton Rose",
+            "Área ": "956",
+            "Arquitecto": "ZVA",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "servicios profesionales",
+            "undefined": "abogados",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Palacio de Hierro Satélite",
+            "Área ": "4,247",
+            "Arquitecto": "interno ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "bienes cotidianos",
+            "undefined": "retail",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Procesar",
+            "Área ": "2,982",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "tecnología",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Qualcomm",
+            "Área ": "2,300",
+            "Arquitecto": "T Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "tecnología",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Reckitt Benckiser",
+            "Área ": "4,647",
+            "Arquitecto": "USO Arquitectura ",
+            "Ubicación ": "CDMX",
+            "PM ": "Turner & Townsend",
+            "Categoría": "Bienes de Consumo",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Suprema Corte de Justicia",
+            "Área ": "6,770",
+            "Arquitecto": "García Formenti ",
+            "Ubicación ": "CDMX",
+            "PM ": "-",
+            "Categoría": "gobierno",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Tetra Pak",
+            "Área ": "2,250",
+            "Arquitecto": "aei",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "CBRE",
+            "Categoría": "bienes de producción",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Thomson Reuters",
+            "Área ": "1,665",
+            "Arquitecto": "Gensler ",
+            "Ubicación ": "CDMX",
+            "PM ": "JLL",
+            "Categoría": "servicios profesionales",
+            "undefined": "publicidad y medios",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Universidad del Rosario",
+            "Área ": "1,750",
+            "Arquitecto": "Studio Sur",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "-",
+            "Categoría": "educación",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Univisión Bogotá 4",
+            "Arquitecto": "Nina Cure",
+            "Ubicación ": "BOGOTÁ",
+            "PM ": "-",
+            "Categoría": "entretenimiento",
+            "undefined": "televisión",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Upfield",
+            "Área ": "700",
+            "Arquitecto": "spAce",
+            "Ubicación ": "CDMX",
+            "PM ": "C&W",
+            "Categoría": "bienes de consumo",
+            "undefined": "Alimentos ",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Vanguard",
+            "Área ": "487",
+            "Arquitecto": "Trazo ",
+            "Ubicación ": "CDMX",
+            "PM ": "JLL",
+            "Categoría": "financiero",
+            "undefined": "sin logo",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Wärtsilä",
+            "Área ": "275",
+            "Arquitecto": "Eskema",
+            "Ubicación ": "CDMX",
+            "PM ": "CBRE",
+            "Categoría": "Bienes de producción",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Willis Tower Watson Mty",
+            "Área ": "350",
+            "Arquitecto": "spAce",
+            "Ubicación ": "MTY",
+            "PM ": "JLL",
+            "Categoría": "Financiero",
+            "undefined": "inversión",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Resultado 2018",
+            "Área ": "136,898"
+        },
+        {
+            "undefined": "4770"
+        }
+    ],
+    "2019": [
+        {
+            "Proyecto ": "Airbus",
+            "Área ": "200",
+            "Arquitecto": "Taller Paralelo",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Telecomunicaciones"
+        },
+        {
+            "Proyecto ": "American Express",
+            "Área ": "13,368",
+            "Arquitecto": "Perkins & Will",
+            "Ubicación": "CDMX",
+            "PM": "CBRE",
+            "Categoría": "Financiero"
+        },
+        {
+            "Proyecto ": "Asofarma",
+            "Área ": "1,754",
+            "Arquitecto": "Work +",
+            "Ubicación": "CDMX",
+            "PM": "Colliers",
+            "Categoría": "Farmacéutico"
+        },
+        {
+            "Proyecto ": "AT&T Tecnoparque Etapa 1",
+            "Área ": "700",
+            "Arquitecto": "Uso Arquitectura ",
+            "Ubicación": "CDMX",
+            "PM": "CBRE",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "AT&T Tecnoparque Etapa 2",
+            "Área ": "2,000",
+            "Arquitecto": "Uso Arquitectura ",
+            "Ubicación": "CDMX",
+            "PM": "CBRE",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Banco Base Gdl",
+            "Área ": "870",
+            "Arquitecto": "spAce",
+            "Ubicación": "GDL",
+            "PM": "CBRE",
+            "Categoría": "banco",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Biomerieux",
+            "Área ": "700",
+            "Arquitecto": "Ceciliano + Rivera",
+            "Ubicación": "CDMX",
+            "PM": "CBRE",
+            "Categoría": "Médico"
+        },
+        {
+            "Proyecto ": "Brown Forman Mty",
+            "Área ": "236",
+            "Arquitecto": "Eskema",
+            "Ubicación": "MTY",
+            "PM": "JLL",
+            "Categoría": "Bebidas Alchólicas",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Calma Seguros",
+            "Área ": "75",
+            "Arquitecto": "In house",
+            "Ubicación": "BOGOTÁ",
+            "PM": "-",
+            "Categoría": "seguros"
+        },
+        {
+            "Proyecto ": "Cardif",
+            "Área ": "3,500",
+            "Arquitecto": "spAce",
+            "Ubicación": "CDMX",
+            "PM": "JLL",
+            "Categoría": "Banco"
+        },
+        {
+            "Proyecto ": "Chévez Ruiz Zamarripa",
+            "Área ": "950",
+            "Arquitecto": "Nowicka Studio",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "abogados"
+        },
+        {
+            "Proyecto ": "Ciena GDL",
+            "Área ": "255",
+            "Arquitecto": "Diagonal Arquitectura",
+            "Ubicación": "GDL",
+            "PM": "JLL",
+            "Categoría": "Soluciones de Red"
+        },
+        {
+            "Proyecto ": "Club de Golf",
+            "Área ": "2,000",
+            "Arquitecto": "Haron Kabbie",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Deporte"
+        },
+        {
+            "Proyecto ": "Conduent",
+            "Área ": "850",
+            "Arquitecto": "Nina Cure",
+            "Ubicación": "BOGOTÁ",
+            "PM": "CBRE",
+            "Categoría": "Financiero"
+        },
+        {
+            "Proyecto ": "Credibanco",
+            "Área ": "7,800",
+            "Arquitecto": "Gensler",
+            "Ubicación": "BOGOTÁ",
+            "PM": "Epic",
+            "Categoría": "banco"
+        },
+        {
+            "Proyecto ": "Cruz Roja",
+            "Área ": "1,650",
+            "Arquitecto": "KMD",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "salud"
+        },
+        {
+            "Proyecto ": "Del Castillo y Castro ",
+            "Área ": "570",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "abogados",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "DiDi",
+            "Área ": "300",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación": "BOGOTÁ",
+            "PM": "CBRE",
+            "Categoría": "internet",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "DuPont Labs",
+            "Área ": "129",
+            "Arquitecto": "Contract Workplaces",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Bienes de producción"
+        },
+        {
+            "Proyecto ": "Dupont Piso 17",
+            "Área ": "700",
+            "Arquitecto": "Contract Workplaces",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Bienes de producción"
+        },
+        {
+            "Proyecto ": "Embajada UK",
+            "Área ": "2,251",
+            "Arquitecto": "RTKLCallison",
+            "Ubicación": "CDMX",
+            "PM": "Ridge",
+            "Categoría": "Servicios Extranjeros"
+        },
+        {
+            "Proyecto ": "Expedia Group Cancún",
+            "Área ": "1,000",
+            "Arquitecto": "HKS",
+            "Ubicación": "CDMX",
+            "PM": "Savills",
+            "Categoría": "internet"
+        },
+        {
+            "Proyecto ": "Garmin",
+            "Área ": "300",
+            "Arquitecto": "Trazo ",
+            "Ubicación": "CDMX",
+            "PM": "Colliers",
+            "Categoría": "Servicios profesionales"
+        },
+        {
+            "Proyecto ": "Grupo KC ",
+            "Área ": "1,320",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "seguros"
+        },
+        {
+            "Proyecto ": "Hitachi",
+            "Área ": "276",
+            "Arquitecto": "Studio Sur",
+            "Ubicación": "BOGOTÁ",
+            "PM": "CBRE",
+            "Categoría": "tecnologia"
+        },
+        {
+            "Proyecto ": "Honeywell SLP",
+            "Área ": "420",
+            "Arquitecto": "In house",
+            "Ubicación": "SLP",
+            "PM": "JLL",
+            "Categoría": "Tecnología"
+        },
+        {
+            "Proyecto ": "ICSI",
+            "Área ": "370",
+            "Arquitecto": "Tres Muros",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "tecnologia",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Ienova",
+            "Área ": "3,700",
+            "Arquitecto": "Work +",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "energía"
+        },
+        {
+            "Proyecto ": "Infinera",
+            "Área ": "400",
+            "Arquitecto": "Trazo ",
+            "Ubicación": "CDMX",
+            "PM": "JLL",
+            "Categoría": "tecnologia"
+        },
+        {
+            "Proyecto ": "IKE Asistencia Col",
+            "Área ": "480",
+            "Arquitecto": "Johana Cruz",
+            "Ubicación": "BOGOTÁ",
+            "PM": "-",
+            "Categoría": "seguros",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "IKEA",
+            "Área ": "400",
+            "Arquitecto": "In house",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Bienes Cotidianos",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "itexico GDL ",
+            "Área ": "1,754",
+            "Arquitecto": "In house",
+            "Ubicación": "GDL",
+            "PM": "-",
+            "Categoría": "Software",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "KMI",
+            "Área ": "400",
+            "Arquitecto": "TWA",
+            "Ubicación": "CDMX",
+            "PM": "JLL",
+            "Categoría": "Petroleo y Gas"
+        },
+        {
+            "Proyecto ": "Marriott 4 ",
+            "Área ": "800",
+            "Arquitecto": "Stantec",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Hospitalidad"
+        },
+        {
+            "Proyecto ": "McKinsey ",
+            "Área ": "286",
+            "Arquitecto": "Trazo ",
+            "Ubicación": "CDMX",
+            "PM": "Colliers",
+            "Categoría": "abogados",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Microsoft",
+            "Área ": "960",
+            "Arquitecto": "KMD",
+            "Ubicación": "CDMX",
+            "PM": "T&T",
+            "Categoría": "tecnologia",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Mondeléz",
+            "Área ": "700",
+            "Arquitecto": "Studio Sur",
+            "Ubicación": "BOGOTÁ",
+            "PM": "JLL",
+            "Categoría": "alimentos",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Natixis",
+            "Área ": "360",
+            "Arquitecto": "Studio Domus",
+            "Ubicación": "CDMX",
+            "PM": "CBRE",
+            "Categoría": "banco"
+        },
+        {
+            "Proyecto ": "Nokia",
+            "Área ": "3,768",
+            "Arquitecto": "Castellanos Castro ",
+            "Ubicación": "CDMX",
+            "PM": "JLL",
+            "Categoría": "Telecomunicaciones"
+        },
+        {
+            "Proyecto ": "Oleopalma Gdl",
+            "Área ": "760",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación": "GDL",
+            "PM": "-",
+            "Categoría": "Petroleo y Gas",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "PagaTodo",
+            "Área ": "700",
+            "Arquitecto": "Uso Arquitectura ",
+            "Ubicación": "CDMX",
+            "PM": "JLL",
+            "Categoría": "Telecomunicaciones"
+        },
+        {
+            "Proyecto ": "SICES",
+            "Área ": "580",
+            "Arquitecto": "Work +",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Energía"
+        },
+        {
+            "Proyecto ": "Smart Payment ",
+            "Área ": "1,000",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Telecomunicaciones"
+        },
+        {
+            "Proyecto ": "Solvay",
+            "Área ": "595",
+            "Arquitecto": "Eskema",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Químico"
+        },
+        {
+            "Proyecto ": "Sumitomo Mitsui Banking Corporation",
+            "Área ": "280",
+            "Arquitecto": "Nina Cure",
+            "Ubicación": "BOGOTÁ",
+            "PM": "Colliers",
+            "Categoría": "banco",
+            "Fotos": "a"
+        },
+        {
+            "Proyecto ": "Sura Patriotismo",
+            "Área ": "1,560",
+            "Arquitecto": "Teco Arquitectos",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Afore",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Sura 222",
+            "Área ": "385",
+            "Arquitecto": "Nacional de Oficios",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Afore"
+        },
+        {
+            "Proyecto ": "Scotiabank",
+            "Área ": "250",
+            "Arquitecto": "AIA",
+            "Ubicación": "BOGOTÁ",
+            "PM": "BCQS",
+            "Categoría": "banco"
+        },
+        {
+            "Proyecto ": "Thyssenkrupp",
+            "Área ": "2,717",
+            "Arquitecto": "Oxígeno Arquitectura",
+            "Ubicación": "CDMX",
+            "PM": "CBRE",
+            "Categoría": "Bienes de producción"
+        },
+        {
+            "Proyecto ": "Twitter",
+            "Área ": "1,470",
+            "Arquitecto": "Gensler",
+            "Ubicación": "CDMX",
+            "PM": "Grupo EGA",
+            "Categoría": "internet",
+            "Fotos": "x"
+        },
+        {
+            "Proyecto ": "Verifone",
+            "Área ": "646",
+            "Arquitecto": "spAce",
+            "Ubicación": "CDMX",
+            "PM": "Colliers",
+            "Categoría": "Telecomunicaciones",
+            "Fotos": "a",
+            "OK": "a"
+        },
+        {
+            "Proyecto ": "Vinos Concha y Toro ",
+            "Área ": "390",
+            "Arquitecto": "moos",
+            "Ubicación": "CDMX",
+            "PM": "-",
+            "Categoría": "Bebidas alcohólicas"
+        },
+        {
+            "undefined": "11,011"
+        }
+    ],
+    "Giros": [
+        {
+            "Industrial": "Bienes de producción",
+            "Comercial": "Consumo cotidiano",
+            "Servicios": "Servicios profesionales"
+        },
+        {
+            "Industrial": "Bienes de consumo",
+            "Comercial": "Retail",
+            "Servicios": "Telecomunicaciones"
+        },
+        {
+            "Servicios": "Financiero"
+        },
+        {
+            "Servicios": "Entretenimiento"
+        },
+        {
+            "Servicios": "Educación"
+        },
+        {
+            "Servicios": "Hospitalidad"
+        },
+        {
+            "Servicios": "Salud"
+        },
+        {
+            "Servicios": "Transporte"
+        },
+        {
+            "Servicios": "Servicios extranjeros"
+        },
+        {
+            "Servicios": "Tecnología"
+        },
+        {
+            "Servicios": "Gobierno"
+        }
+    ]
+}

@@ -1,23 +1,35 @@
 import json
 import os
-from selenium.webdriver import Chrome
+import unidecode
 
-Chrome.find_element_by_id('name')
-
-with open('projects.json') as myfile:
+with open('2007.json') as myfile:
 	data = json.load(myfile)
 
 def iterateProjects(year):
 	i = 0
 	for project in data[year]:
+		if not 'Área' in project:
+			project['Área'] = '-'
+		if not 'Arquitecto' in project:
+			project['Arquitecto'] = '-'
+		if not 'Ubicación' in project:
+			project['Ubicación'] = '-'
+		if not 'PM' in project:
+			project['PM'] = '-'
+		if not 'Categoría1' in project:
+			project['Categoría1'] = '-'
+		
+		project['Categoría1'] = unidecode.unidecode(project['Categoría1'])
+
 		name = project['Proyecto']
 		surface = project['Área']
 		architect = project['Arquitecto']
 		location = project['Ubicación']
 		pm = project['PM']
-		category = [project['Categoría1']]
+		category = [project['Categoría1'].lower().replace(" ", "-")]
 		if 'Categoría2' in project.keys() :
-			category.append(project['Categoría2'])
+			project['Categoría2'] = unidecode.unidecode(project['Categoría2'])
+			category.append(project['Categoría2'].lower().replace(" ", "-"))
 		createJSCode(year, name, surface, architect, location, pm, category, i)
 		i += 1
 
@@ -42,4 +54,4 @@ def createJSCode(year, name, surface, architect, location, pm, category, i):
 
 
 if __name__ == "__main__":
-	iterateProjects('2016')
+	iterateProjects('2007')

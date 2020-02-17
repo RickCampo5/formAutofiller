@@ -1,0 +1,296 @@
+{
+  "2007": [
+    {
+        "Proyecto": "Applica",
+        "Área": "550",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Baker Hughes",
+        "Área": "600",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Bloom",
+        "Área": "200",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Blue Marine",
+        "Área": "500",
+        "Arquitecto": "HOK",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Petróleo y Gas",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "BNP Paribas",
+        "Área": "700",
+        "Arquitecto": "KMD",
+        "PM": "-",
+        "Categoría1": "Banco",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Cadbury Adams",
+        "Área": "6,300",
+        "Arquitecto": "KMD",
+        "PM": "Sandra González",
+        "Categoría1": "Alimentos",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "CCR",
+        "Área": "240",
+        "Arquitecto": "Tarquitectura",
+        "PM": "-",
+        "Categoría1": "Transporte",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Club Med",
+        "Área": "5,000",
+        "Arquitecto": "In house",
+        "Ubicación": "Ixtapa",
+        "PM": "Grupo Arquenare",
+        "Categoría1": "Hotel",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Credit Suisse",
+        "Área": "3,100",
+        "Arquitecto": "HOK",
+        "PM": "JLL",
+        "Categoría1": "Banco",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Desentis",
+        "Área": "450",
+        "Arquitecto": "KMD",
+        "PM": "KCA",
+        "Categoría1": "Servicios profesionales",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Diageo",
+        "Área": "3,300",
+        "Arquitecto": "Peschard/Gensler",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Bebidas alcohólicas",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Digital",
+        "Área": "700",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Frisa",
+        "Área": "4,000",
+        "Arquitecto": "Trazzo",
+        "PM": "-",
+        "Categoría1": "Construcción",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Game Planet",
+        "Área": "650",
+        "PM": "-",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Genevieve",
+        "Área": "200",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Georgia Pacific",
+        "Área": "900",
+        "Arquitecto": "HOK",
+        "PM": "-",
+        "Categoría1": "Bienes de producción",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "González Graf",
+        "Área": "2,000",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "HKS",
+        "Área": "60",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "HSBC",
+        "Área": "11,000",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Hubbell",
+        "Área": "500",
+        "Arquitecto": "Tarquitectura",
+        "PM": "-",
+        "Categoría1": "Bienes de producción",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "IFC",
+        "Área": "700",
+        "Arquitecto": "Tarquitectura",
+        "PM": "-",
+        "Categoría1": "Servicios extranjeros",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Iké Asistencia",
+        "Área": "4,140",
+        "Arquitecto": "HOK",
+        "PM": "-",
+        "Categoría1": "Seguros",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Louis Vuitton",
+        "Área": "200",
+        "PM": "-",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Mexico Home",
+        "Área": "800",
+        "Arquitecto": "HOK",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Monsanto",
+        "Área": "200",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Monte Fénix",
+        "Área": "1,050",
+        "Arquitecto": "Tarquitectura",
+        "PM": "KCA",
+        "Categoría1": "Salud",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Moody's",
+        "Área": "360",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "MPG",
+        "Área": "2,500",
+        "Arquitecto": "Tarquitectura",
+        "PM": "-"
+    },
+    {
+        "Proyecto": "MRP",
+        "Área": "1,100"
+    },
+    {
+        "Proyecto": "Nalco",
+        "Área": "650",
+        "Arquitecto": "KMD",
+        "PM": "-",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Nortel",
+        "Área": "4,600",
+        "Arquitecto": "HOK",
+        "PM": "-",
+        "Categoría1": "Telecomunicaciones",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Research International",
+        "Área": "100",
+        "Arquitecto": "HOK",
+        "PM": "JLL",
+        "Categoría1": "Servicios profesionales",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "SAP",
+        "Área": "1,200",
+        "Arquitecto": "adyp",
+        "PM": "-",
+        "Categoría1": "Tecnología",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Schweppes",
+        "Área": "800",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "SIG",
+        "Área": "250",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Sodexo",
+        "Área": "1,000",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Stiefel",
+        "Área": "1,500",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Teleperformance",
+        "Área": "3,530",
+        "Categoría1": "RRHH",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "The Rug Company",
+        "Área": "500",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Towers Perrin",
+        "Área": "750",
+        "Arquitecto": "Peschard/Gensler",
+        "PM": "-",
+        "Categoría1": "Servicios profesionales",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Unilever",
+        "Área": "10,000",
+        "Arquitecto": "hok",
+        "PM": "Sandra González",
+        "Categoría1": "Bienes de consumo",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "UTStarcom",
+        "Área": "200",
+        "Arquitecto": "Tarquitectura",
+        "PM": "-",
+        "Categoría1": "Telecomunicaciones",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "VB+CRR",
+        "Área": "850",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Watson Wyatt",
+        "Área": "1,500",
+        "Arquitecto": "Peschard/Gensler",
+        "PM": "-",
+        "Categoría1": "Consultoría",
+        "Fotos": "a"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "2013": [
+    {
+        "Proyecto": "Adidas",
+        "Área": "100",
+        "Arquitecto": "-",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Ropa"
+    },
+    {
+        "Proyecto": "ALD Automotive",
+        "Área": "800",
+        "Arquitecto": "Oxigeno Arquitectura ",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Transporte"
+    },
+    {
+        "Proyecto": "Alpha Credit",
+        "Área": "652",
+        "Arquitecto": "Lemus Arquitectos ",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Financiero"
+    },
+    {
+        "Proyecto": "American Standard",
+        "Área": "1,500",
+        "Arquitecto": "spAce",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Bienes de Producción"
+    },
+    {
+        "Proyecto": "ANIQ 2",
+        "Área": "655",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Salud/Comercial"
+    },
+    {
+        "Proyecto": "Arena Media",
+        "Área": "1,100",
+        "Arquitecto": "-",
+        "Ubicación": "-",
+        "PM": "-",
+        "Categoría1": "Servicios Profesionales"
+    },
+    {
+        "Proyecto": "Arendal",
+        "Área": "512",
+        "Arquitecto": "spAce",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Construcción"
+    },
+    {
+        "Proyecto": "Bank of America Mty",
+        "Área": "82",
+        "Arquitecto": "-",
+        "PM": "-",
+        "Ubicación": "MTY",
+        "Categoría1": "Financiero"
+    },
+    {
+        "Proyecto": "BNP",
+        "Área": "68",
+        "Arquitecto": "-",
+        "PM": "-",
+        "Ubicación": "CDMX",
+        "Categoría1": "Financiero"
+    },
+    {
+        "Proyecto": "Bristol Myers",
+        "Área": "2,967",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Salud/Comercial"
+    },
+    {
+        "Proyecto": "Capgemini",
+        "Área": "2,028",
+        "Arquitecto": "Oxigeno Arquitectura ",
+        "Ubicación": "CDMX",
+        "PM": "NA",
+        "Categoría1": "Servicios Profesionales"
+    },
+    {
+        "Proyecto": "Ciena",
+        "Área": "700",
+        "Arquitecto": "-",
+        "Ubicación": "GDL",
+        "PM": "JLL",
+        "Categoría1": "Telecomunicaciones"
+    },
+    {
+        "Proyecto": "CIT",
+        "Área": "1,475",
+        "Arquitecto": "Oxígeno Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "NA",
+        "Categoría1": "-"
+    },
+    {
+        "Proyecto": "COI",
+        "Área": "680",
+        "Arquitecto": "-",
+        "Ubicación": "-",
+        "PM": "-",
+        "Categoría1": "-"
+    },
+    {
+        "Proyecto": "Conagra",
+        "Área": "800",
+        "Arquitecto": "HOK ",
+        "Ubicación": "CDMX",
+        "PM": "NA",
+        "Categoría1": "Alimentos"
+    },
+    {
+        "Proyecto": "DuPont Carso",
+        "Área": "780",
+        "Arquitecto": "spAce",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de producción"
+    },
+    {
+        "Proyecto": "EMC2",
+        "Área": "37",
+        "Arquitecto": "C+R",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Tecnología"
+    },
+    {
+        "Proyecto": "Franklin Templeton",
+        "Área": "700",
+        "Arquitecto": "V&V Interiors & Architecture ",
+        "Ubicación": "CDMX",
+        "PM": "C&W ",
+        "Categoría1": "Inversiones"
+    },
+    {
+        "Proyecto": "Google",
+        "Área": "50",
+        "Arquitecto": "spAce",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Telecomunicaciones"
+    },
+    {
+        "Proyecto": "Grupo Modelo",
+        "Área": "2,780",
+        "Arquitecto": "spAce",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Bebidas"
+    },
+    {
+        "Proyecto": "Ienova",
+        "Área": "1,520",
+        "Arquitecto": "Sordo Madaleno",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Energía"
+    },
+    {
+        "Proyecto": "Intel",
+        "Área": "800",
+        "Arquitecto": "In House",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Tecnología"
+    },
+    {
+        "Proyecto": "Kone",
+        "Área": "1,500",
+        "Arquitecto": "Tarquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Tecnología"
+    },
+    {
+        "Proyecto": "Levis",
+        "Área": "650",
+        "Arquitecto": "Eskema",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Ropa"
+    },
+    {
+        "Proyecto": "M+W",
+        "Área": "700",
+        "Arquitecto": "In House",
+        "Ubicación": "CDMX",
+        "PM": "NA",
+        "Categoría1": "Construcción"
+    },
+    {
+        "Proyecto": "Macquarie",
+        "Área": "612",
+        "Arquitecto": "Eskema",
+        "Ubicación": "CDMX",
+        "PM": "NA",
+        "Categoría1": "Bienes Raíces"
+    },
+    {
+        "Proyecto": "Marriott",
+        "Área": "430",
+        "Arquitecto": "In House",
+        "Ubicación": "CDMX",
+        "PM": "NA",
+        "Categoría1": "Hospitalidad"
+    },
+    {
+        "Proyecto": "Marsh & McLennan",
+        "Área": "8,520",
+        "Arquitecto": "ZVA",
+        "Ubicación": "CDMX",
+        "PM": "C&W",
+        "Categoría1": "Seguros"
+    },
+    {
+        "Proyecto": "Mattel",
+        "Área": "70",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Juguetes"
+    },
+    {
+        "Proyecto": "Mercado Libre",
+        "Área": "100",
+        "Arquitecto": "spAce",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Telecomunicaciones"
+    },
+    {
+        "Proyecto": "Mundipharma",
+        "Área": "460",
+        "Arquitecto": "Eskema",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Salud"
+    },
+    {
+        "Proyecto": "Nestlé",
+        "Área": "17,000",
+        "Arquitecto": "spAce",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Alimentos"
+    },
+    {
+        "Proyecto": "Ogilvy",
+        "Área": "478",
+        "Arquitecto": "Serrano Monjaráz",
+        "Ubicación": "CDMX",
+        "PM": "NA",
+        "Categoría1": "Publicidad"
+    },
+    {
+        "Proyecto": "Oracle",
+        "Área": "300",
+        "Arquitecto": "Peschard Arquitectos",
+        "Ubicación": "CDMX",
+        "PM": "NA",
+        "Categoría1": "Tecnología"
+    },
+    {
+        "Proyecto": "PRA2",
+        "Área": "422",
+        "Arquitecto": "Tarquitectura",
+        "Ubicación": "CDMX",
+        "PM": "NA",
+        "Categoría1": "-"
+    },
+    {
+        "Proyecto": "Prudential",
+        "Área": "1,250",
+        "Arquitecto": "Uso Arquitectura ",
+        "Ubicación": "CDMX",
+        "PM": "NA",
+        "Categoría1": "Seguros"
+    },
+    {
+        "Proyecto": "Reforma 265",
+        "Área": "50",
+        "Arquitecto": "Uso Arquitectura ",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "-"
+    },
+    {
+        "Proyecto": "RPS",
+        "Área": "45",
+        "Arquitecto": "Uso Arquitectura ",
+        "Ubicación": "CDMX",
+        "PM": "NA",
+        "Categoría1": "Seguros"
+    },
+    {
+        "Proyecto": "SCA",
+        "Área": "2,000",
+        "Arquitecto": "KMD ",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Bienes de Consumo"
+    },
+    {
+        "Proyecto": "Smith & Nephew",
+        "Área": "1,054",
+        "Arquitecto": "In House",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Salud"
+    },
+    {
+        "Proyecto": "Sony Pictures",
+        "Área": "650",
+        "Arquitecto": "-",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Entretenimiento "
+    },
+    {
+        "Proyecto": "Únete",
+        "Área": "550",
+        "Arquitecto": "In House",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Servicios Asociaciones"
+    },
+    {
+        "Proyecto": "UST Global",
+        "Área": "650",
+        "Arquitecto": "In house",
+        "Ubicación": "CDMX",
+        "PM": "C&W",
+        "Categoría1": "Tecnología"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "2014": [
+    {
+        "Proyecto": "Apple",
+        "Área": "770",
+        "Arquitecto": "ZVA",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "tecnologia"
+    },
+    {
+        "Proyecto": "Bard Medical",
+        "Área": "460",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "salud ",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Blackberry",
+        "Área": "700",
+        "Arquitecto": "ZVA",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "telecomunicaciones",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Bloomberg",
+        "Área": "800",
+        "Arquitecto": "ZVA",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Financiero",
+        "OK": "x"
+    },
+    {
+        "Proyecto": "BNY Mellon",
+        "Área": "370",
+        "Arquitecto": "-",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Financiero"
+    },
+    {
+        "Proyecto": "Bottega Veneta",
+        "Área": "150",
+        "Arquitecto": "Peschard Arquitectos",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "retail",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Bulova",
+        "Área": "900",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de Consumo",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Bx+",
+        "Área": "1,100",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Financiero",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Celgene",
+        "Área": "1,082",
+        "Arquitecto": "Oxígeno Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "farmaceutico",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Crédito Real",
+        "Área": "4,500",
+        "Arquitecto": "Oxígeno Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Financiero",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "DHL",
+        "Área": "3,870",
+        "Arquitecto": "Oxígeno Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "logísitca",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "DNVGL",
+        "Área": "1,310",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "riesgos",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Flores Lozano",
+        "Área": "350",
+        "Arquitecto": "Eskema ",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Abogados",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Google",
+        "Área": "700",
+        "Arquitecto": "spAce ",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "tecnologia",
+        "Fotos": "a",
+        "OK": "x"
+    },
+    {
+        "Proyecto": "Gucci",
+        "Área": "326",
+        "Arquitecto": "Peschard Arquitectos",
+        "Ubicación": "Cancuún",
+        "PM": "-",
+        "Categoría1": "retail",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Hersheys ",
+        "Área": "1,500",
+        "Arquitecto": "Trazo",
+        "Ubicación": "GDL",
+        "PM": "CBRE",
+        "Categoría1": "alimentos"
+    },
+    {
+        "Proyecto": "Hersheys ",
+        "Área": "800",
+        "Arquitecto": "Trazo",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "alimentos",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Icon",
+        "Área": "390",
+        "Arquitecto": "In house",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "médico"
+    },
+    {
+        "Proyecto": "Ienova 2",
+        "Área": "684",
+        "Arquitecto": "Sordo Madaleno",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "energía",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "IFT",
+        "Área": "6,000",
+        "Arquitecto": "Ensamble Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "gobierno",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "IFT2",
+        "Área": "2,400",
+        "Arquitecto": "Ensamble Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "gobierno"
+    },
+    {
+        "Proyecto": "Interface",
+        "Área": "252",
+        "Arquitecto": "Boeman Design",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "textil",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Lectra",
+        "Área": "460",
+        "Arquitecto": "Eskema ",
+        "Ubicación": "CDMX",
+        "PM": "Newmark Grubb",
+        "Categoría1": "tecnologia",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Lorant",
+        "Área": "3,000",
+        "Arquitecto": "Eskema ",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "seguros",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Macquarie ",
+        "Área": "120",
+        "Arquitecto": "Eskema ",
+        "Ubicación": "CDMX",
+        "PM": "JLL",
+        "Categoría1": "Financiero"
+    },
+    {
+        "Proyecto": "Moodys",
+        "Área": "390",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "riesgos",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Mundipharma",
+        "Área": "460",
+        "Arquitecto": "Eskema ",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "farmaceutico",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Nielsen",
+        "Área": "900",
+        "Arquitecto": "Trazo",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Publicidad y medios",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Nutrisa",
+        "Área": "2500",
+        "Arquitecto": "spAce ",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "alimentos",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Osram",
+        "Área": "180",
+        "Arquitecto": "spAce ",
+        "Ubicación": "CDMX",
+        "PM": "Colliers",
+        "Categoría1": "bienes de producción",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "PRA",
+        "Área": "370",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "salud",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Puma",
+        "Área": "60",
+        "Arquitecto": "spAce ",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de Consumo",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Red Bull Gdl",
+        "Área": "165",
+        "Arquitecto": "-",
+        "Ubicación": "GDL",
+        "PM": "-",
+        "Categoría1": "bienes cotidianos"
+    },
+    {
+        "Proyecto": "Sáfilo",
+        "Área": "420",
+        "Arquitecto": "Oxígeno Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de Consumo",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Standard & Poors",
+        "Área": "3,530",
+        "Arquitecto": "zva",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Financiero",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "TAAG Genetics",
+        "Área": "450",
+        "Arquitecto": "Habitaly Marcopolo",
+        "Ubicación": "CDMX",
+        "PM": "C&W",
+        "Categoría1": "higiene alimenticio",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Thor Urbana",
+        "Área": "150",
+        "Arquitecto": "Bernardi + Peschard",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "inmobiliario"
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "2011": [
+    {
+        "Proyecto": "Adidas",
+        "Área": "150",
+        "Arquitecto": "Oxígeno Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "JLL ",
+        "Categoría1": "Consumo",
+        "Categoría2": "Deporte",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Amgen",
+        "Área": "50",
+        "Arquitecto": "-",
+        "Ubicación": "ñ",
+        "PM": "-",
+        "Categoría1": "-",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Bank of America",
+        "Área": "1,972",
+        "Arquitecto": "Peschard Arquitectos",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Financiero",
+        "Categoría2": "Banco",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Bank of America",
+        "Área": "1,760",
+        "Arquitecto": "Peschard Arquitectos",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Financiero",
+        "Categoría2": "Banco",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "BNP",
+        "Área": "100",
+        "Arquitecto": "Peschard Arquitectos",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Financiero",
+        "Categoría2": "Banco",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "CA Technologies",
+        "Área": "700",
+        "Arquitecto": "-",
+        "Ubicación": "CDMX",
+        "PM": "JLL ",
+        "Categoría1": "Tecnología",
+        "Categoría2": "Software",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Cámara Diputados",
+        "Área": "230",
+        "Arquitecto": "-",
+        "Ubicación": "-",
+        "PM": "-",
+        "Categoría1": "Tecnología",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Cardif",
+        "Área": "1,000",
+        "Arquitecto": "T Arquitetura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Financiero",
+        "Categoría2": "Seguros",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "CIIA",
+        "Área": "1,280",
+        "Arquitecto": "-",
+        "Ubicación": "-",
+        "Categoría1": "-",
+        "PM": "-",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Compucom",
+        "Área": "2,958",
+        "Arquitecto": "VeFO",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Consumo",
+        "Categoría2": "Tecnología",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Consulado Canadá",
+        "Área": "65",
+        "Arquitecto": "Peschard Arquitectos",
+        "Ubicación": "Acapulco/Oaxaca",
+        "PM": "-",
+        "Categoría1": "Servicios extranjeros",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Croda",
+        "Área": "580",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Consumo",
+        "Categoría2": "Químico",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Diageo",
+        "Área": "100",
+        "Arquitecto": "Gensler",
+        "Ubicación": "CDMX",
+        "PM": "JLL ",
+        "Categoría1": "Consumo ",
+        "Categoría2": "Bebidas",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Eads Noc",
+        "Área": "500",
+        "Arquitecto": "Trazo",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Aeronautica",
+        "Categoría2": "Aeronautica",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Flores Dávila",
+        "Área": "350",
+        "Arquitecto": "Eskema Arquitectos",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Abogados",
+        "Categoría2": "Abogados",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Foros TV Azteca",
+        "Área": "12,000",
+        "Arquitecto": "IN House",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Televisora",
+        "Categoría2": "Televisora",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Gossler",
+        "Área": "280",
+        "Arquitecto": "Trazo",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Consultoría",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Inite",
+        "Área": "500",
+        "Arquitecto": "Trazo",
+        "Ubicación": "EDO MEX",
+        "PM": "-",
+        "Categoría1": "Consultoría",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Louis Vuitton",
+        "Área": "400",
+        "Arquitecto": "Arthur Horton",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Retail",
+        "Categoría2": "Retail",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Lundbeck",
+        "Área": "100",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "KCA",
+        "Categoría1": "Farmaceutica",
+        "Categoría2": "Farmaceutica",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Maersk",
+        "Área": "1,600",
+        "Arquitecto": "MAC-L",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Transporte",
+        "Categoría2": "Transporte",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Mattel",
+        "Área": "2,440",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "JLL ",
+        "Categoría1": "Bienes de consumo",
+        "Categoría2": "Juguetes",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Mercado Libre",
+        "Área": "550",
+        "Arquitecto": "SPACE",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Tecnología",
+        "Categoría2": "Internet",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Mexichem",
+        "Área": "1,000",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Industria",
+        "Categoría2": "Industria",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Michael Page",
+        "Área": "460",
+        "Arquitecto": "SPACE",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Servicios profesionales",
+        "Categoría2": "reclutamiento",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Mind Share",
+        "Área": "300",
+        "Arquitecto": "Trazo",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Servicios profesionales",
+        "Categoría2": "Publicidad",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "MPG",
+        "Área": "1,275",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "-",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "MRP",
+        "Área": "1,500",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "JLL ",
+        "Categoría1": "Servicios profesionales",
+        "Categoría2": "Inmobiliaria",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Nextel Matamoros",
+        "Área": "300",
+        "Arquitecto": "-",
+        "Ubicación": "Matamoros",
+        "PM": "JLL ",
+        "Categoría1": "Servicios profesionales",
+        "Categoría2": "Telefonía",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Phillip Morris Museo",
+        "Área": "30",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Bienes de consumo",
+        "Categoría2": "Tabaco",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Rabobank",
+        "Área": "-",
+        "Arquitecto": "-",
+        "Ubicación": "-",
+        "PM": "-",
+        "Categoría1": "Financiero",
+        "Categoría2": "Banco"
+    },
+    {
+        "Proyecto": "Red Bull",
+        "Área": "80",
+        "Arquitecto": "Idea Asociados de México Arq",
+        "Ubicación": "CDMX",
+        "PM": "CBRE",
+        "Categoría1": "Bienes de consumo",
+        "Categoría2": "Bebidas",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Red Hat",
+        "Área": "610",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "Colliers",
+        "Categoría1": "Tecnología",
+        "Categoría2": "Software",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Road Machinery",
+        "Área": "140",
+        "Arquitecto": "T Arquitectura",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de consumo",
+        "Categoría2": "Maquinaria para construcción",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Rothschild",
+        "Área": "368",
+        "Arquitecto": "Trazo",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Financiero",
+        "Categoría2": "Banco",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "Rubbermaid",
+        "Área": "240",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de consumo",
+        "Categoría2": "Artículos para el hogar",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Santillana",
+        "Área": "5,700",
+        "Arquitecto": "SPACE",
+        "Ubicación": "CDMX",
+        "PM": "JLL ",
+        "Categoría1": "Servicios profesionales",
+        "Categoría2": "Editorial",
+        "Fotos": "a",
+        "OK": "a"
+    },
+    {
+        "Proyecto": "SCA",
+        "Área": "100",
+        "Arquitecto": "Estudio Lemus Arquitectos",
+        "Ubicación": "CDMX",
+        "PM": "-",
+        "Categoría1": "Bienes de consumo",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Tyco",
+        "Área": "1,600",
+        "Arquitecto": "Oxigeno Arquitetcura",
+        "Ubicación": "EDO MEX",
+        "PM": "-",
+        "Categoría1": "Servicios profesionales",
+        "Categoría2": "Seguridad",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "UBS",
+        "Área": "300",
+        "Arquitecto": "KMD",
+        "Ubicación": "CDMX",
+        "PM": "Bovis Lend lease",
+        "Categoría1": "Financiero",
+        "Categoría2": "Banco",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Vistakon",
+        "Área": "500",
+        "Arquitecto": "-",
+        "Ubicación": "-",
+        "PM": "-",
+        "Categoría1": "-"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "2008": [
+    {
+        "Proyecto": "Alstom",
+        "Área": "1,500",
+        "Arquitecto": "Oxigeno Arquitectura",
+        "PM": "-",
+        "Categoría1": "Transporte",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Amadeus",
+        "Área": "400",
+        "Arquitecto": "Trazo",
+        "PM": "-",
+        "Categoría1": "Tecnología",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Baker & Huges",
+        "Área": "300",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Bloomberg",
+        "Área": "100",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Caja Mediterránea",
+        "Área": "350",
+        "Arquitecto": "tarquitectura",
+        "PM": "KCA",
+        "Categoría1": "Financiero",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Campbell's",
+        "Área": "900",
+        "Arquitecto": "HOK",
+        "PM": "-",
+        "Categoría1": "Alimentos",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Cargill",
+        "Área": "1,600",
+        "Arquitecto": "tarquitectura",
+        "PM": "KCA",
+        "Categoría1": "Bienes de producción",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Conagra Foods",
+        "Área": "900",
+        "Arquitecto": "hok",
+        "Categoría1": "Bienes de consumo",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Creel-MPGS",
+        "Área": "800",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Dexia",
+        "Área": "800",
+        "Arquitecto": "tarquitectura",
+        "PM": "-",
+        "Categoría1": "Financiero",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Diestra",
+        "Área": "800",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "FAW",
+        "Área": "2,100",
+        "Arquitecto": "Trazo",
+        "PM": "-",
+        "Categoría1": "Transporte",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Fundes",
+        "Área": "500",
+        "Arquitecto": "tarquitectura",
+        "PM": "-",
+        "Categoría1": "Asociaciones",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "MPG Havas",
+        "Área": "900",
+        "Arquitecto": "tarquitectura",
+        "PM": "-",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "IFC",
+        "Área": "150",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Inite",
+        "Área": "2,500",
+        "Arquitecto": "tarquitectura",
+        "PM": "-",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Komex-Gas",
+        "Área": "90",
+        "Arquitecto": "usoarquitectura",
+        "PM": "-",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Milliken",
+        "Área": "175",
+        "Arquitecto": "kmd",
+        "PM": "-",
+        "Categoría1": "Bienes de producción",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Mizuho",
+        "Área": "430",
+        "Arquitecto": "peschard/gensler",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Modatelas",
+        "Área": "400",
+        "Arquitecto": "tarquitectura",
+        "PM": "-",
+        "Categoría1": "Bienes de producción",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Moody's",
+        "Área": "350",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Nortel",
+        "Área": "2,300",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "PRA",
+        "Área": "450",
+        "Arquitecto": "tarquitectura",
+        "PM": "-",
+        "Categoría1": "Salud",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Rhodia",
+        "Área": "320",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Rockwell",
+        "Área": "1,650",
+        "Arquitecto": "spAce",
+        "PM": "CBRE",
+        "Categoría1": "Tecnología",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "RPS",
+        "Área": "320",
+        "Arquitecto": "Carla Prandini",
+        "PM": "-",
+        "Categoría1": "Servicios profesionales",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Samsung",
+        "Área": "600",
+        "Categoría1": "Tecnología",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "SCA",
+        "Área": "700",
+        "Arquitecto": "KMD",
+        "PM": "-",
+        "Categoría1": "Bienes de consumo",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Teletech",
+        "Área": "11,000",
+        "Arquitecto": "JC Name Arquitectos",
+        "PM": "The Staubach Company",
+        "Categoría1": "Servicios profesionales",
+        "Fotos": "a"
+    },
+    {
+        "Proyecto": "Towers Perrin",
+        "Área": "150",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "UBS",
+        "Área": "1,450",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Unilever",
+        "Área": "300",
+        "Ubicación": "MTY",
+        "Fotos": "x"
+    },
+    {
+        "Proyecto": "Unilever",
+        "Área": "300",
+        "Fotos": "x"
+    }
+  ]
+}
